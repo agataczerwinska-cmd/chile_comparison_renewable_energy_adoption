@@ -18,7 +18,7 @@ changes over time?
 
 ## Data source
 
-**Our World in Data — Energy Dataset** (via Kaggle: "World Energy Consumption")
+**Our World in Data - Energy Dataset** (via Kaggle: "World Energy Consumption")
 
 Initially started with World Bank ESG data, which only provided an aggregate 
 "renewable energy consumption %" figure. Switched to this dataset because it 
@@ -29,7 +29,7 @@ coal, gas, oil, nuclear) and covers a longer, more recent time range
 ## Finding 1: Renewable share over time (1990-2022)
 
 Renewable electricity share **declined** across all five countries from 1990 
-through the mid-2010s — likely reflecting energy demand growth (industrialization, 
+through the mid-2010s- likely reflecting energy demand growth (industrialization, 
 mining, population growth) outpacing renewable capacity additions. From roughly 
 2018 onward, most countries — especially Chile and Brazil — show a renewed 
 upward trend, coinciding with the global acceleration in solar and wind investment.
@@ -41,7 +41,7 @@ upward trend, coinciding with the global acceleration in solar and wind investme
 Brazil and Colombia lean heavily on hydroelectric power (60-75% of their grid). 
 Argentina relies primarily on gas (~55%), reflecting its substantial domestic 
 natural gas reserves (notably Vaca Muerta). **Chile stands out for having the 
-most diversified electricity mix** of the five — meaningful contributions from 
+most diversified electricity mix** of the five, with meaningful contributions from 
 hydro, solar (~17%), and wind (~10%), alongside continued coal and gas use.
 
 ![Electricity mix 2022](latam_electricity_mix_2022.png)
@@ -61,7 +61,7 @@ turned to coal and diesel as the cheapest available substitutes, driving the
 coal increase visible in the chart.
 
 This is a geopolitical and supply-security story, not an economic growth 
-story — a good reminder that a plausible-looking correlation (coal rising 
+story, a good reminder that a plausible-looking correlation (coal rising 
 alongside GDP) isn't the same as a verified causal explanation.
 
 *Source: [Chile's electricity markets: Four decades on from their original 
@@ -74,10 +74,10 @@ design, ScienceDirect](https://www.sciencedirect.com/science/article/pii/S221146
 Chile's diversified 2022 electricity mix is the product of two distinct 
 forces: a supply shock (the 2004-2007 Argentine gas cutoff) that pushed it 
 toward coal in the mid-2000s, followed by a deliberate, more recent shift 
-toward solar and wind — leveraging strong solar resources in the Atacama 
+toward solar and wind, leveraging strong solar resources in the Atacama 
 Desert. This contrasts with Brazil and Colombia, whose high renewable share 
 comes from a single legacy source (hydro) rather than a diversified 
-portfolio — a distinction that matters for energy security and grid 
+portfolio, a distinction that matters for energy security and grid 
 resilience, not just renewable %.
 
 ## Tools used
@@ -86,7 +86,7 @@ Python, pandas, matplotlib, Google Colab
 
 ## Files in this repo
 
-- `latam_renewables_analysis.ipynb` — full notebook with code and outputs
-- `latam_renewables_trend_1990_2022.png` — renewable share over time (5 countries)
+- `latam_renewables_analysis.ipynb` - full notebook with code and outputs
+- `latam_renewables_trend_1990_2022.png` - renewable share over time (5 countries)
 - `latam_electricity_mix_2022.png` — electricity mix by source, 2022 (5 countries)
 - `chile_electricity_mix_trend.png` — Chile's energy mix evolution, 2003-2022
