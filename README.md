@@ -33,7 +33,7 @@ mining, population growth) outpacing renewable capacity additions. From roughly
 2018 onward, most countries — especially Chile and Brazil — show a renewed 
 upward trend, coinciding with the global acceleration in solar and wind investment.
 
-![Renewable share over time](latam_renewables_trend_1990_2022.png)
+
 
 ## Finding 2: Electricity mix by source (2022)
 
