@@ -31,7 +31,7 @@ coal, gas, oil, nuclear) and covers a longer, more recent time range
 Renewable electricity share **declined** across all five countries from 1990 
 through the mid-2010s- likely reflecting energy demand growth (industrialization, 
 mining, population growth) outpacing renewable capacity additions. From roughly 
-2018 onward, most countries — especially Chile and Brazil — show a renewed 
+2018 onward, most countries, especially Chile and Brazil, show a renewed 
 upward trend, coinciding with the global acceleration in solar and wind investment.
 
 ![Renewable share over time](latam_renewables_trend_1990_2022.png)
@@ -54,7 +54,7 @@ Investigating further revealed a more specific, verified explanation:
 **Argentina restricted natural gas exports to Chile starting 2004** amid its 
 own domestic energy crisis, with export cuts peaking in 2007 at over half of 
 prior shipments. Chile had built roughly 3 GW of gas-fired capacity in the 
-1990s around cheap Argentine gas, so the shortage hit hard — natural gas 
+1990s around cheap Argentine gas, so the shortage hit hard and natural gas 
 prices in Chile reportedly rose from around $84 to over $400 per million m³ 
 between 2004 and 2008, while consumption collapsed. Facing this shock, Chile 
 turned to coal and diesel as the cheapest available substitutes, driving the 
