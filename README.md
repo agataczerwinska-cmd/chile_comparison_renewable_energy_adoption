@@ -73,7 +73,7 @@ design, ScienceDirect](https://www.sciencedirect.com/science/article/pii/S221146
 
 Chile's diversified 2022 electricity mix is the product of two distinct 
 forces: a supply shock (the 2004-2007 Argentine gas cutoff) that pushed it 
-toward coal in the mid-2000s, followed by a deliberate, more recent shift 
+toward coal in the late 2000s, followed by a deliberate, more recent shift 
 toward solar and wind, leveraging strong solar resources in the Atacama 
 Desert. This contrasts with Brazil and Colombia, whose high renewable share 
 comes from a single legacy source (hydro) rather than a diversified 
